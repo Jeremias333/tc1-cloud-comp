@@ -3,4 +3,4 @@ Repositório para a cadeira de Cloud 1
 
 
 
-Acesso em: https://tc1-cloud-comp-4utcjvzg4-jeremias-oliveiras-projects.vercel.app
+Acesso em: https://tc1-cloud-comp.vercel.app/
